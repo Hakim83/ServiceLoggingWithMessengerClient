@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\ServiceLoggingWithMessengerClient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7b4a5e8f3eb0c10427896566d295478c0dc8f6df">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\ServiceLoggingWithMessengerClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_84980e418b127fcd7d14439276b814b28030cfd6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\ServiceLoggingWithMessengerClient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ae5ec87811dc616621313c9798113afcd4a484d5">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\ServiceLoggingWithMessengerClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ad7d1990dfbb7ab572505bc6bebf89dbe677ddc5\classes.dex" />
+    </item>
+
+</items>
